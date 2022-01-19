@@ -1,0 +1,28 @@
+#title {
+    text-align: center;
+    margin-top: 18px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+#dltBtn {
+    width: 45px;
+}
+
+#doneBtn {
+    width: 45px;
+    justify-content: space-between;
+}
+
+#svgDlt {
+    display: none;
+    text-align: right;
+}
+
+#svgCheck {
+    display: none;
+}
+
+#paper {
+    background-color: turquoise;
+    border-radius: 2%;
+}
